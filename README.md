@@ -5,7 +5,7 @@
 🎓 Studente di Ingegneria Informatica  
 💡 Appassionato di programmazione e tecnologia  
 🔍 Attualmente sto approfondendo Java, C# e SQL  
-🛠️ Utilizzo principalmente il framework .NET per i miei progetti
+🛠️ Utilizzo principalmente i framework .NET, Spring e Spring Boot per i miei progetti
 
 ---
 
@@ -53,7 +53,7 @@ Un repository contenente vari esercizi, progetti e sperimentazioni legate allo s
 🎓 Computer Engineering student  
 💡 Passionate about programming and technology  
 🔍 Currently studying Java, C#, and SQL  
-🛠️ Mainly working with the .NET framework and C#
+🛠️ Mainly working with .NET, Spring and Spring Boot frameworks
 
 ---
 
