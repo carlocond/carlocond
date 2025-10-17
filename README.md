@@ -9,13 +9,6 @@
 
 ---
 
-## 🚀 Progetto in evidenza
-
-🔗 [**Deposito_Condello**](https://github.com/carlocond/Deposito_Condello)  
-Un repository contenente vari esercizi, progetti e sperimentazioni legate allo studio universitario e all'approfondimento pratico della programmazione.
-
----
-
 ## 💻 Linguaggi e Tecnologie
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java)
@@ -54,13 +47,6 @@ Un repository contenente vari esercizi, progetti e sperimentazioni legate allo s
 💡 Passionate about programming and technology  
 🔍 Currently studying Java, C#, and SQL  
 🛠️ Mainly working with .NET, Spring and Spring Boot frameworks
-
----
-
-## 🚀 Featured Project
-
-🔗 [**Deposito_Condello**](https://github.com/carlocond/Deposito_Condello)  
-A repository with various exercises, projects, and experiments related to my university studies and hands-on programming practice.
 
 ---
 
